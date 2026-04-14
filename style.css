@@ -234,6 +234,23 @@ footer {
   margin-top: 0.4rem;
 }
 
+.photo-slot {
+  width: 100%;       /* Ou o tamanho fixo que você desejar, ex: 300px */
+  height: 400px;     /* Defina uma altura para manter o padrão */
+  overflow: hidden;  /* Corta o que sobrar da imagem */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px; /* Opcional: deixa as bordas arredondadas */
+}
+
+.foto-perfil {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ESSA É A MÁGICA: a foto preenche o espaço sem distorcer */
+  object-position: center; /* Centraliza o foco da imagem */
+}
+
 .section {
   padding: 78px 0 20px;
 }
