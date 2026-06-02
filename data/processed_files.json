@@ -1,5 +1,11 @@
 {
   "version": 1,
-  "last_run": null,
-  "files": {}
+  "last_run": "2026-06-02T17:51:34Z",
+  "files": {
+    "knowledge/formacao_e_skills.txt": {
+      "hash": "177031e015a799e5aefc60b7c368999b6f5ab5219bc2e391d04f61b65f714aeb",
+      "last_processed_at": "2026-06-02T17:51:34Z",
+      "status": "processed"
+    }
+  }
 }

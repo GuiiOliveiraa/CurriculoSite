@@ -1,0 +1,39 @@
+Atualização de Perfil para o Currículo
+
+Formação Acadêmica:
+
+* Cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
+
+Hard Skills (Competências Técnicas):
+
+* Desenvolvimento Web Front-end utilizando HTML, CSS e JavaScript.
+* Programação em Python e linguagem C.
+* Desenvolvimento e consumo de APIs REST.
+* Integração de sistemas e automação de processos.
+* Criação de assistentes virtuais e aplicações baseadas em Inteligência Artificial utilizando LLMs.
+* Engenharia de prompts e integração com modelos de IA generativa.
+* Automação de workflows utilizando n8n.
+* Bancos de dados relacionais (SQL).
+* Bancos de dados vetoriais (Weaviate).
+* Controle de versão com Git e GitHub.
+* Desenvolvimento de soluções para e-commerce e sistemas web.
+
+Soft Skills (Competências Comportamentais):
+
+* Pensamento analítico e resolução de problemas.
+* Facilidade de aprendizado e adaptação a novas tecnologias.
+* Proatividade na busca por soluções e melhoria contínua.
+* Organização e gerenciamento de projetos.
+* Comunicação clara e objetiva.
+* Trabalho em equipe e colaboração.
+* Capacidade de pesquisa e aprendizado autodidata.
+* Raciocínio lógico aplicado ao desenvolvimento de software.
+
+Cursos Complementares:
+
+* Fundamentos da Linguagem C.
+* Cursos e estudos complementares em desenvolvimento web, integração de APIs, automação de processos e Inteligência Artificial.
+* Participação contínua em projetos práticos voltados para desenvolvimento de software e automação.
+
+Objetivo Profissional:
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software, automação, inteligência artificial e integração de sistemas. Busco aplicar tecnologia para criar soluções eficientes, escaláveis e com impacto real para empresas e usuários.

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-02T00:00:00-03:00",
+  "updated_at": "2026-06-02T17:51:34Z",
   "profile": {
     "name": "Guilherme Oliveira",
     "title": "Desenvolvedor Full Stack",
@@ -86,6 +86,276 @@
       ],
       "first_seen": "2026-04-16",
       "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Desenvolvimento Web Front-end",
+      "category": "Frontend",
+      "description": "Criação de interfaces de usuário para aplicações web.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "APIs REST",
+      "category": "APIs",
+      "description": "Desenvolvimento e consumo de interfaces de programação de aplicações RESTful.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Integração de Sistemas",
+      "category": "Integrações",
+      "description": "Conexão e comunicação entre diferentes sistemas e plataformas.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Automação de Processos",
+      "category": "Automação",
+      "description": "Otimização de tarefas repetitivas através de scripts e ferramentas.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Assistentes Virtuais",
+      "category": "Inteligência Artificial",
+      "description": "Criação de agentes conversacionais e sistemas de interação inteligente.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Inteligência Artificial",
+      "category": "Inteligência Artificial",
+      "description": "Desenvolvimento de aplicações baseadas em modelos de IA.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Engenharia de Prompts",
+      "category": "Inteligência Artificial",
+      "description": "Otimização de entradas para modelos de IA generativa.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Automação de Workflows",
+      "category": "Automação",
+      "description": "Automatização de sequências de tarefas e processos de trabalho.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Bancos de Dados Relacionais",
+      "category": "Banco de Dados",
+      "description": "Modelagem e gerenciamento de dados em sistemas relacionais.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Bancos de Dados Vetoriais",
+      "category": "Banco de Dados",
+      "description": "Armazenamento e consulta de dados vetoriais para aplicações de IA.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "E-commerce",
+      "category": "Backend",
+      "description": "Desenvolvimento de soluções e sistemas para comércio eletrônico.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Sistemas Web",
+      "category": "Backend",
+      "description": "Criação e manutenção de aplicações baseadas na web.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Pensamento Analítico",
+      "category": "Soft Skills",
+      "description": "Capacidade de analisar informações e identificar padrões.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Resolução de Problemas",
+      "category": "Soft Skills",
+      "description": "Habilidade para encontrar soluções eficazes para desafios.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Facilidade de Aprendizado",
+      "category": "Soft Skills",
+      "description": "Aptidão para adquirir novos conhecimentos e tecnologias rapidamente.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Adaptação a Novas Tecnologias",
+      "category": "Soft Skills",
+      "description": "Flexibilidade para se ajustar e utilizar novas ferramentas e plataformas.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Proatividade",
+      "category": "Soft Skills",
+      "description": "Iniciativa na busca por soluções e melhorias.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Melhoria Contínua",
+      "category": "Soft Skills",
+      "description": "Comprometimento com o aprimoramento constante de processos e resultados.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Organização",
+      "category": "Soft Skills",
+      "description": "Habilidade para estruturar tarefas e informações de forma eficiente.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Gerenciamento de Projetos",
+      "category": "Soft Skills",
+      "description": "Capacidade de planejar, executar e monitorar projetos.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Comunicação Clara",
+      "category": "Soft Skills",
+      "description": "Expressão de ideias de forma compreensível e concisa.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Comunicação Objetiva",
+      "category": "Soft Skills",
+      "description": "Transmissão de informações de maneira direta e focada.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Trabalho em Equipe",
+      "category": "Soft Skills",
+      "description": "Colaboração eficaz com outros membros para atingir objetivos comuns.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Colaboração",
+      "category": "Soft Skills",
+      "description": "Disposição para cooperar e compartilhar conhecimentos.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Capacidade de Pesquisa",
+      "category": "Soft Skills",
+      "description": "Habilidade para investigar e coletar informações relevantes.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Aprendizado Autodidata",
+      "category": "Soft Skills",
+      "description": "Autonomia para aprender e desenvolver novas competências por conta própria.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Raciocínio Lógico",
+      "category": "Soft Skills",
+      "description": "Aplicação da lógica para resolver problemas de software.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
     }
   ],
   "technologies": [
@@ -128,6 +398,56 @@
       ],
       "first_seen": "2026-04-16",
       "last_seen": "2026-04-16"
+    },
+    {
+      "name": "C",
+      "category": "Backend",
+      "description": "Linguagem de programação de baixo nível.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "LLMs",
+      "category": "Inteligência Artificial",
+      "description": "Modelos de Linguagem Grande para aplicações de IA.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "IA Generativa",
+      "category": "Inteligência Artificial",
+      "description": "Modelos de inteligência artificial capazes de gerar conteúdo.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "SQL",
+      "category": "Banco de Dados",
+      "description": "Linguagem padrão para gerenciamento de bancos de dados relacionais.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Weaviate",
+      "category": "Banco de Dados",
+      "description": "Banco de dados vetorial de código aberto.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
     }
   ],
   "tools": [
@@ -150,6 +470,16 @@
       ],
       "first_seen": "2026-04-16",
       "last_seen": "2026-04-16"
+    },
+    {
+      "name": "n8n",
+      "category": "Automação",
+      "description": "Ferramenta de automação de workflows de código aberto.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
     }
   ],
   "projects": [
@@ -200,7 +530,18 @@
       "last_seen": "2026-04-16"
     }
   ],
-  "experiences": [],
+  "experiences": [
+    {
+      "name": "Análise e Desenvolvimento de Sistemas",
+      "category": "Formação Acadêmica",
+      "description": "Cursando no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    }
+  ],
   "highlights": [
     {
       "name": "Resolução de problemas",
@@ -234,7 +575,287 @@
       ],
       "first_seen": "2026-04-16",
       "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Fundamentos da Linguagem C",
+      "category": "Curso Complementar",
+      "description": "Curso focado nos princípios básicos da linguagem de programação C.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Estudos em Desenvolvimento Web",
+      "category": "Curso Complementar",
+      "description": "Aprofundamento em tecnologias e práticas de desenvolvimento web.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Estudos em Integração de APIs",
+      "category": "Curso Complementar",
+      "description": "Aprofundamento em técnicas e padrões para integração de APIs.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Estudos em Automação de Processos",
+      "category": "Curso Complementar",
+      "description": "Aprofundamento em estratégias e ferramentas para automação de processos.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Estudos em Inteligência Artificial",
+      "category": "Curso Complementar",
+      "description": "Aprofundamento em conceitos e aplicações de Inteligência Artificial.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
+    },
+    {
+      "name": "Projetos Práticos de Desenvolvimento de Software e Automação",
+      "category": "Experiência Prática",
+      "description": "Participação contínua em projetos práticos para aplicar conhecimentos em desenvolvimento de software e automação.",
+      "sources": [
+        "knowledge/formacao_e_skills.txt"
+      ],
+      "first_seen": "2026-06-02T17:51:34Z",
+      "last_seen": "2026-06-02T17:51:34Z"
     }
   ],
-  "knowledge_history": []
+  "knowledge_history": [
+    {
+      "source": "knowledge/formacao_e_skills.txt",
+      "hash": "177031e015a799e5aefc60b7c368999b6f5ab5219bc2e391d04f61b65f714aeb",
+      "processed_at": "2026-06-02T17:51:34Z",
+      "summary": "Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software, automação, inteligência artificial e integração de sistemas. Busco aplicar tecnologia para criar soluções eficientes, escaláveis e com impacto real para empresas e usuários.",
+      "analysis": {
+        "skills": [
+          {
+            "name": "Desenvolvimento Web Front-end",
+            "category": "Frontend",
+            "description": "Criação de interfaces de usuário para aplicações web."
+          },
+          {
+            "name": "APIs REST",
+            "category": "APIs",
+            "description": "Desenvolvimento e consumo de interfaces de programação de aplicações RESTful."
+          },
+          {
+            "name": "Integração de Sistemas",
+            "category": "Integrações",
+            "description": "Conexão e comunicação entre diferentes sistemas e plataformas."
+          },
+          {
+            "name": "Automação de Processos",
+            "category": "Automação",
+            "description": "Otimização de tarefas repetitivas através de scripts e ferramentas."
+          },
+          {
+            "name": "Assistentes Virtuais",
+            "category": "Inteligência Artificial",
+            "description": "Criação de agentes conversacionais e sistemas de interação inteligente."
+          },
+          {
+            "name": "Inteligência Artificial",
+            "category": "Inteligência Artificial",
+            "description": "Desenvolvimento de aplicações baseadas em modelos de IA."
+          },
+          {
+            "name": "Engenharia de Prompts",
+            "category": "Inteligência Artificial",
+            "description": "Otimização de entradas para modelos de IA generativa."
+          },
+          {
+            "name": "Automação de Workflows",
+            "category": "Automação",
+            "description": "Automatização de sequências de tarefas e processos de trabalho."
+          },
+          {
+            "name": "Bancos de Dados Relacionais",
+            "category": "Banco de Dados",
+            "description": "Modelagem e gerenciamento de dados em sistemas relacionais."
+          },
+          {
+            "name": "Bancos de Dados Vetoriais",
+            "category": "Banco de Dados",
+            "description": "Armazenamento e consulta de dados vetoriais para aplicações de IA."
+          },
+          {
+            "name": "E-commerce",
+            "category": "Backend",
+            "description": "Desenvolvimento de soluções e sistemas para comércio eletrônico."
+          },
+          {
+            "name": "Sistemas Web",
+            "category": "Backend",
+            "description": "Criação e manutenção de aplicações baseadas na web."
+          },
+          {
+            "name": "Pensamento Analítico",
+            "category": "Soft Skills",
+            "description": "Capacidade de analisar informações e identificar padrões."
+          },
+          {
+            "name": "Resolução de Problemas",
+            "category": "Soft Skills",
+            "description": "Habilidade para encontrar soluções eficazes para desafios."
+          },
+          {
+            "name": "Facilidade de Aprendizado",
+            "category": "Soft Skills",
+            "description": "Aptidão para adquirir novos conhecimentos e tecnologias rapidamente."
+          },
+          {
+            "name": "Adaptação a Novas Tecnologias",
+            "category": "Soft Skills",
+            "description": "Flexibilidade para se ajustar e utilizar novas ferramentas e plataformas."
+          },
+          {
+            "name": "Proatividade",
+            "category": "Soft Skills",
+            "description": "Iniciativa na busca por soluções e melhorias."
+          },
+          {
+            "name": "Melhoria Contínua",
+            "category": "Soft Skills",
+            "description": "Comprometimento com o aprimoramento constante de processos e resultados."
+          },
+          {
+            "name": "Organização",
+            "category": "Soft Skills",
+            "description": "Habilidade para estruturar tarefas e informações de forma eficiente."
+          },
+          {
+            "name": "Gerenciamento de Projetos",
+            "category": "Soft Skills",
+            "description": "Capacidade de planejar, executar e monitorar projetos."
+          },
+          {
+            "name": "Comunicação Clara",
+            "category": "Soft Skills",
+            "description": "Expressão de ideias de forma compreensível e concisa."
+          },
+          {
+            "name": "Comunicação Objetiva",
+            "category": "Soft Skills",
+            "description": "Transmissão de informações de maneira direta e focada."
+          },
+          {
+            "name": "Trabalho em Equipe",
+            "category": "Soft Skills",
+            "description": "Colaboração eficaz com outros membros para atingir objetivos comuns."
+          },
+          {
+            "name": "Colaboração",
+            "category": "Soft Skills",
+            "description": "Disposição para cooperar e compartilhar conhecimentos."
+          },
+          {
+            "name": "Capacidade de Pesquisa",
+            "category": "Soft Skills",
+            "description": "Habilidade para investigar e coletar informações relevantes."
+          },
+          {
+            "name": "Aprendizado Autodidata",
+            "category": "Soft Skills",
+            "description": "Autonomia para aprender e desenvolver novas competências por conta própria."
+          },
+          {
+            "name": "Raciocínio Lógico",
+            "category": "Soft Skills",
+            "description": "Aplicação da lógica para resolver problemas de software."
+          }
+        ],
+        "technologies": [
+          {
+            "name": "C",
+            "category": "Backend",
+            "description": "Linguagem de programação de baixo nível."
+          },
+          {
+            "name": "LLMs",
+            "category": "Inteligência Artificial",
+            "description": "Modelos de Linguagem Grande para aplicações de IA."
+          },
+          {
+            "name": "IA Generativa",
+            "category": "Inteligência Artificial",
+            "description": "Modelos de inteligência artificial capazes de gerar conteúdo."
+          },
+          {
+            "name": "SQL",
+            "category": "Banco de Dados",
+            "description": "Linguagem padrão para gerenciamento de bancos de dados relacionais."
+          },
+          {
+            "name": "Weaviate",
+            "category": "Banco de Dados",
+            "description": "Banco de dados vetorial de código aberto."
+          }
+        ],
+        "tools": [
+          {
+            "name": "n8n",
+            "category": "Automação",
+            "description": "Ferramenta de automação de workflows de código aberto."
+          }
+        ],
+        "projects": [],
+        "experiences": [
+          {
+            "name": "Análise e Desenvolvimento de Sistemas",
+            "category": "Formação Acadêmica",
+            "description": "Cursando no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)."
+          }
+        ],
+        "highlights": [
+          {
+            "name": "Fundamentos da Linguagem C",
+            "category": "Curso Complementar",
+            "description": "Curso focado nos princípios básicos da linguagem de programação C."
+          },
+          {
+            "name": "Estudos em Desenvolvimento Web",
+            "category": "Curso Complementar",
+            "description": "Aprofundamento em tecnologias e práticas de desenvolvimento web."
+          },
+          {
+            "name": "Estudos em Integração de APIs",
+            "category": "Curso Complementar",
+            "description": "Aprofundamento em técnicas e padrões para integração de APIs."
+          },
+          {
+            "name": "Estudos em Automação de Processos",
+            "category": "Curso Complementar",
+            "description": "Aprofundamento em estratégias e ferramentas para automação de processos."
+          },
+          {
+            "name": "Estudos em Inteligência Artificial",
+            "category": "Curso Complementar",
+            "description": "Aprofundamento em conceitos e aplicações de Inteligência Artificial."
+          },
+          {
+            "name": "Projetos Práticos de Desenvolvimento de Software e Automação",
+            "category": "Experiência Prática",
+            "description": "Participação contínua em projetos práticos para aplicar conhecimentos em desenvolvimento de software e automação."
+          }
+        ]
+      }
+    }
+  ]
 }
