@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-02T00:00:00-03:00",
+  "profile": {
+    "name": "Guilherme Oliveira",
+    "title": "Desenvolvedor Full Stack",
+    "summary": "Desenvolvo soluções completas, criando aplicações e interfaces integradas a um back-end eficiente, com foco em performance, organização e entrega de produtos robustos e profissionais.",
+    "about": "Desenvolvedor focado em aprendizado prático, construção de projetos reais e evolução constante. Busco soluções eficientes, com design agradável e boa usabilidade.",
+    "typing": [
+      "Criando interfaces de alto impacto",
+      "Focado em desempenho e experiência",
+      "Projetos com visual profissional"
+    ],
+    "hero_tags": [
+      {
+        "label": "Interfaces modernas",
+        "icon": "fa-solid fa-laptop-code"
+      },
+      {
+        "label": "Performance",
+        "icon": "fa-solid fa-gauge-high"
+      },
+      {
+        "label": "Código limpo",
+        "icon": "fa-solid fa-layer-group"
+      }
+    ],
+    "contact": {
+      "email": "guilherme.raimundo.oliveira@gmail.com",
+      "github": "https://github.com/GuiiOliveiraa",
+      "linkedin": "https://www.linkedin.com/in/guilhermeoliveiraa-/"
+    }
+  },
+  "skills": [
+    {
+      "name": "HTML",
+      "category": "Frontend",
+      "description": "Estruturação semântica de páginas web.",
+      "icon": "fa-brands fa-html5",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "CSS",
+      "category": "Frontend",
+      "description": "Estilização responsiva e interfaces visuais modernas.",
+      "icon": "fa-brands fa-css3-alt",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "JavaScript",
+      "category": "Frontend",
+      "description": "Interatividade, manipulação de DOM e comportamento dinâmico.",
+      "icon": "fa-brands fa-js",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Python",
+      "category": "Backend",
+      "description": "Automações, scripts e aplicações back-end.",
+      "icon": "fa-brands fa-python",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Git",
+      "category": "Ferramentas",
+      "description": "Versionamento de código e organização de evolução técnica.",
+      "icon": "fa-brands fa-git-alt",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    }
+  ],
+  "technologies": [
+    {
+      "name": "HTML",
+      "category": "Frontend",
+      "description": "Marcação para interfaces web.",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "CSS",
+      "category": "Frontend",
+      "description": "Estilos, responsividade e organização visual.",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "JavaScript",
+      "category": "Frontend",
+      "description": "Comportamentos dinâmicos no navegador.",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Python",
+      "category": "Backend",
+      "description": "Automações e integrações back-end.",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "category": "Ferramentas",
+      "description": "Controle de versão.",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "GitHub",
+      "category": "Ferramentas",
+      "description": "Hospedagem de repositórios e publicação de projetos.",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Loja virtual simples",
+      "category": "Front-End",
+      "description": "Interface de e-commerce com navegação dinâmica, filtros interativos e integração direta para conversão via WhatsApp.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/GuiiOliveiraa/NunesStoreOficial"
+        },
+        {
+          "label": "Demo",
+          "url": "https://guiioliveiraa.github.io/NunesStoreOficial/"
+        }
+      ],
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Cotação das moedas (EMAIL)",
+      "category": "Back-End",
+      "description": "Aplicação back-end que consulta cotações de moedas em tempo real via API e envia automaticamente relatórios por e-mail em HTML, com uso de variáveis de ambiente para segurança.",
+      "technologies": [
+        "Python",
+        "APIs",
+        "HTML"
+      ],
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/GuiiOliveiraa/CotacaoDasMoedas"
+        }
+      ],
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    }
+  ],
+  "experiences": [],
+  "highlights": [
+    {
+      "name": "Resolução de problemas",
+      "category": "Soft Skills",
+      "description": "Planejamento técnico para transformar ideias em resultados.",
+      "icon": "fa-solid fa-lightbulb",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Boas práticas",
+      "category": "Ferramentas",
+      "description": "Organização de código e versionamento com foco em evolução.",
+      "icon": "fa-solid fa-code-branch",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    },
+    {
+      "name": "Foco no usuário",
+      "category": "Soft Skills",
+      "description": "Interfaces intuitivas, legíveis e com boa apresentação.",
+      "icon": "fa-solid fa-user-check",
+      "sources": [
+        "site:initial"
+      ],
+      "first_seen": "2026-04-16",
+      "last_seen": "2026-04-16"
+    }
+  ],
+  "knowledge_history": []
+}

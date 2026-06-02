@@ -30,6 +30,10 @@ body {
   overflow-x: hidden;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 .bg-shape {
   position: fixed;
   pointer-events: none;
@@ -269,7 +273,9 @@ footer {
 
 .about-highlights,
 .skills-grid,
+.tech-grid,
 .projects-grid,
+.experience-grid,
 .contact-grid {
   display: grid;
   gap: 1rem;
@@ -281,7 +287,9 @@ footer {
 
 .info-card,
 .skill-card,
+.tech-card,
 .project-card,
+.experience-card,
 .contact-item {
   border: 1px solid var(--border);
   border-radius: 16px;
@@ -332,6 +340,59 @@ footer {
   font-weight: 600;
 }
 
+.skill-card small {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.tech-grid,
+.experience-grid {
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+}
+
+.tech-card,
+.experience-card {
+  padding: 1rem;
+}
+
+.tech-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.8rem;
+  margin-bottom: 0.55rem;
+}
+
+.tech-top h3,
+.experience-card h3 {
+  font-size: 1rem;
+}
+
+.tech-top span,
+.experience-card > span,
+.project-tags span {
+  border: 1px solid rgba(50, 216, 194, 0.42);
+  border-radius: 999px;
+  background: rgba(50, 216, 194, 0.13);
+  color: #b9f8f0;
+  font-size: 0.74rem;
+  padding: 3px 9px;
+  white-space: nowrap;
+}
+
+.tech-card p,
+.experience-card p {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.experience-card > span {
+  display: inline-flex;
+  margin-bottom: 0.7rem;
+}
+
 .projects-grid {
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
@@ -369,6 +430,13 @@ footer {
 
 .project-card p {
   color: var(--muted);
+}
+
+.project-tags {
+  margin: 1rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
 }
 
 .project-card {

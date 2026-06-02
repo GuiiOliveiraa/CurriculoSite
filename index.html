@@ -26,7 +26,9 @@
         <ul class="nav-links">
           <li><a href="#about">Sobre</a></li>
           <li><a href="#skills">Habilidades</a></li>
+          <li><a href="#technologies">Tecnologias</a></li>
           <li><a href="#projects">Projetos</a></li>
+          <li><a href="#experience">Experiências</a></li>
           <li><a href="#contact">Contato</a></li>
         </ul>
       </nav>
@@ -35,16 +37,16 @@
         <div class="hero-content reveal">
           <p class="eyebrow">
             <i class="fa-solid fa-sparkles"></i>
-            Desenvolvedor Full Stack
+            <span id="profile-title">Desenvolvedor Full Stack</span>
           </p>
-          <h2>Olá, eu sou <span>Guilherme Oliveira</span></h2>
+          <h2>Olá, eu sou <span id="profile-name">Guilherme Oliveira</span></h2>
           <h3 id="typing"></h3>
-          <p>
+          <p id="profile-summary">
             Desenvolvo soluções completas, criando aplicações e interfaces
             integradas a um back-end eficiente, com foco em performance,
             organização e entrega de produtos robustos e profissionais.
           </p>
-          <div class="hero-tags">
+          <div class="hero-tags" id="hero-tags">
             <span
               ><i class="fa-solid fa-laptop-code"></i> Interfaces modernas</span
             >
@@ -59,7 +61,7 @@
 
         <aside class="hero-photo reveal">
           <div class="photo-slot">
-            <img src="/Foto.png" alt="Minha Foto" class="foto-perfil" />
+            <img src="Foto.png" alt="Minha Foto" class="foto-perfil" />
           </div>
         </aside>
       </section>
@@ -68,12 +70,16 @@
     <main>
       <section id="about" class="section reveal">
         <h2>Sobre mim</h2>
-        <p class="section-intro">
+        <p class="section-intro" id="about-text">
           Desenvolvedor focado em aprendizado prático, construção de projetos
           reais e evolução constante. Busco soluções eficientes, com design
           agradável e boa usabilidade.
         </p>
-        <div class="about-highlights">
+      </section>
+
+      <section id="highlights" class="section reveal">
+        <h2>Destaques</h2>
+        <div class="about-highlights" id="highlights-grid">
           <article class="info-card">
             <i class="fa-solid fa-lightbulb"></i>
             <h3>Resolução de problemas</h3>
@@ -94,7 +100,7 @@
 
       <section id="skills" class="section reveal">
         <h2>Habilidades</h2>
-        <div class="skills-grid">
+        <div class="skills-grid" id="skills-grid" aria-live="polite">
           <article class="skill-card">
             <i class="fa-brands fa-html5"></i>
             <p>HTML</p>
@@ -118,9 +124,18 @@
         </div>
       </section>
 
+      <section id="technologies" class="section reveal">
+        <h2>Tecnologias e ferramentas</h2>
+        <p class="section-intro">
+          Stacks, APIs, ferramentas e integrações consolidadas a partir do
+          histórico de aprendizados e projetos.
+        </p>
+        <div class="tech-grid" id="technologies-grid" aria-live="polite"></div>
+      </section>
+
       <section id="projects" class="section reveal">
         <h2>Projetos</h2>
-        <div class="projects-grid">
+        <div class="projects-grid" id="projects-grid" aria-live="polite">
           <article class="project-card">
             <div class="project-top">
               <h3>Loja virtual simples</h3>
@@ -172,6 +187,15 @@
             </div>
           </article>
         </div>
+      </section>
+
+      <section id="experience" class="section reveal" hidden>
+        <h2>Experiências</h2>
+        <p class="section-intro">
+          Experiências profissionais e aprendizados relevantes gerados a partir
+          das anotações do currículo vivo.
+        </p>
+        <div class="experience-grid" id="experiences-grid" aria-live="polite"></div>
       </section>
 
       <section id="contact" class="section reveal">
