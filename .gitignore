@@ -1,7 +1,8 @@
-.env
+﻿.env
+ai-cv/.env
 __pycache__/
 *.py[cod]
 .pytest_cache/
-logs/*.log
+ai-cv/logs/*.log
 .venv
 .vscode/

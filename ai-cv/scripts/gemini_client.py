@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import json
 import logging
@@ -19,13 +19,13 @@ DEFAULT_MODEL = "gemini-3.5-flash"
 CATEGORIES = [
     "Backend",
     "Frontend",
-    "Inteligência Artificial",
-    "Automação",
+    "InteligÃªncia Artificial",
+    "AutomaÃ§Ã£o",
     "APIs",
     "DevOps",
     "QA",
     "Banco de Dados",
-    "Integrações",
+    "IntegraÃ§Ãµes",
     "Cloud",
     "Ferramentas",
     "Soft Skills",
@@ -92,7 +92,7 @@ class GeminiProvider(AIProvider):
             from google.genai import types
         except ImportError as exc:
             raise RuntimeError(
-                "Dependencias ausentes. Execute: pip install -r requirements.txt"
+                "Dependencias ausentes. Execute: pip install -r ai-cv/requirements.txt"
             ) from exc
 
         self._types = types
@@ -194,3 +194,4 @@ def normalize_analysis(payload: Mapping[str, Any]) -> dict[str, Any]:
         value = payload.get(key, [])
         normalized[key] = value if isinstance(value, list) else []
     return normalized
+

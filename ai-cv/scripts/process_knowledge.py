@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import argparse
 import hashlib
@@ -21,6 +21,7 @@ from update_cv import (
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
+SITE_DIR = ROOT_DIR.parent / "site"
 SUPPORTED_SUFFIXES = {".md", ".txt"}
 
 
@@ -107,7 +108,7 @@ def main() -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Processa arquivos livres em knowledge/ e atualiza data/cv.json."
+        description="Processa arquivos livres em ai-cv/knowledge/ e atualiza site/data/cv.json."
     )
     parser.add_argument(
         "--full",
@@ -133,12 +134,12 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--knowledge-dir",
-        default="knowledge",
+        default=str(ROOT_DIR / "knowledge"),
         help="Pasta com arquivos .txt ou .md.",
     )
     parser.add_argument(
         "--data-dir",
-        default="data",
+        default=str(SITE_DIR / "data"),
         help="Pasta onde cv.json e processed_files.json ficam salvos.",
     )
     return parser.parse_args()

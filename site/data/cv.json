@@ -1,0 +1,141 @@
+{
+  "lastUpdated": "2026-07-01T15:00:00Z",
+  "profile": {
+    "name": "Guilherme Oliveira",
+    "title": "Desenvolvedor Full Stack",
+    "summary": "Desenvolvo soluções completas, criando aplicações e interfaces integradas a um back-end eficiente, com foco em performance, organização e entrega de produtos robustos e profissionais.",
+    "about": "Desenvolvedor focado em aprendizado prático, construção de projetos reais e evolução constante. Busco soluções eficientes, com design agradável e boa usabilidade."
+  },
+  "highlights": [
+    {
+      "title": "Resolução de problemas",
+      "description": "Planejamento técnico para transformar ideias em resultados.",
+      "icon": "fa-solid fa-lightbulb"
+    },
+    {
+      "title": "Boas práticas",
+      "description": "Organização de código e versionamento com foco em evolução.",
+      "icon": "fa-solid fa-code-branch"
+    },
+    {
+      "title": "Foco no usuário",
+      "description": "Interfaces intuitivas, legíveis e com boa apresentação.",
+      "icon": "fa-solid fa-user-check"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desenvolvimento Frontend",
+      "category": "Frontend",
+      "icon": "fa-solid fa-laptop-code",
+      "description": "Criação de interfaces responsivas e otimizadas com HTML5, CSS3 e JavaScript Moderno."
+    },
+    {
+      "name": "Desenvolvimento Backend",
+      "category": "Backend",
+      "icon": "fa-solid fa-server",
+      "description": "Construção de lógicas de servidor, processamento de dados e manipulação de arquivos estáticos."
+    },
+    {
+      "name": "Integração de APIs RESTful",
+      "category": "APIs",
+      "icon": "fa-solid fa-network-wired",
+      "description": "Consumo e integração de APIs externas para manipulação de dados dinâmicos em tempo real."
+    },
+    {
+      "name": "Automação & Web Scraping",
+      "category": "Automação",
+      "icon": "fa-solid fa-robot",
+      "description": "Criação de scripts e rotinas com Python para automatizar processos repetitivos e extrair dados."
+    },
+    {
+      "name": "Inteligência Artificial (LLMs)",
+      "category": "IA",
+      "icon": "fa-solid fa-brain",
+      "description": "Integração e consumo da API do Google Gemini para geração dinâmica e estruturada de conteúdo."
+    },
+    {
+      "name": "Arquitetura e Boas Práticas",
+      "category": "Arquitetura",
+      "icon": "fa-solid fa-sitemap",
+      "description": "Aplicação de separação de dados e template, tratamento de erros, clean code e logging."
+    }
+  ],
+  "technologies": [
+    { "name": "HTML5", "icon": "fa-brands fa-html5", "category": "Frontend" },
+    { "name": "CSS3", "icon": "fa-brands fa-css3-alt", "category": "Frontend" },
+    { "name": "JavaScript", "icon": "fa-brands fa-js", "category": "Frontend" },
+    { "name": "Python", "icon": "fa-brands fa-python", "category": "Backend" },
+    { "name": "Node.js", "icon": "fa-brands fa-node-js", "category": "Backend" },
+    { "name": "React", "icon": "fa-brands fa-react", "category": "Frontend" },
+    { "name": "Tailwind CSS", "icon": "fa-solid fa-wind", "category": "Frontend" },
+    { "name": "PostgreSQL", "icon": "fa-solid fa-database", "category": "Banco de Dados" },
+    { "name": "Docker", "icon": "fa-brands fa-docker", "category": "DevOps" },
+    { "name": "Git & GitHub", "icon": "fa-brands fa-github", "category": "Ferramentas" },
+    { "name": "Gemini API", "icon": "fa-solid fa-sparkles", "category": "IA" },
+    { "name": "Figma", "icon": "fa-brands fa-figma", "category": "Design" }
+  ],
+  "projects": [
+    {
+      "name": "Currículo Vivo com IA",
+      "category": "Full-Stack",
+      "description": "Portfólio inteligente que se atualiza automaticamente via IA, processando anotações em Markdown para gerar dados estruturados e renderizar o site dinamicamente. Inclui dark mode, micro-interações e suporte a múltiplos idiomas.",
+      "highlights": [
+        "Pipeline de IA automatizado com Gemini API",
+        "Deploy automático utilizando GitHub Actions",
+        "Separação de lógica de dados (JSON) e template",
+        "Armazenamento de preferências com localStorage"
+      ],
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/GuiiOliveiraa/CurriculoSite" },
+        { "label": "Demo", "url": "https://guiioliveiraa.github.io/CurriculoSite/" }
+      ],
+      "technologies": ["Python", "Gemini API", "GitHub Actions", "HTML5", "CSS3", "JavaScript"]
+    },
+    {
+      "name": "Nunes Store",
+      "category": "Front-End",
+      "description": "Interface de e-commerce focada em conversão, com navegação dinâmica, filtros interativos de produtos, gerenciamento de carrinho e integração nativa com o WhatsApp para fechamento de pedidos.",
+      "highlights": [
+        "Filtros de produtos dinâmicos via manipulação de DOM",
+        "Integração do checkout diretamente com WhatsApp API",
+        "Design responsivo com abordagem mobile-first",
+        "Otimização de performance e SEO"
+      ],
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/GuiiOliveiraa/NunesStoreOficial" },
+        { "label": "Demo", "url": "https://guiioliveiraa.github.io/NunesStoreOficial/" }
+      ],
+      "technologies": ["HTML5", "CSS3", "JavaScript Vanilla", "WhatsApp API"]
+    },
+    {
+      "name": "Sistema de Cotação de Moedas",
+      "category": "Back-End",
+      "description": "Aplicação back-end programada em Python para monitorar variações de moedas em tempo real. O sistema processa os dados da API, gera relatórios em HTML estruturado e realiza disparos automatizados por e-mail.",
+      "highlights": [
+        "Consumo ágil de APIs RESTful",
+        "Geração dinâmica de HTML e envio via protocolo SMTP",
+        "Gerenciamento seguro de chaves usando variáveis de ambiente (.env)",
+        "Tratamento de erros e logging estruturado"
+      ],
+      "links": [
+        { "label": "GitHub", "url": "https://github.com/GuiiOliveiraa/CotacaoDasMoedas" }
+      ],
+      "technologies": ["Python", "SMTP", "JSON"]
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Desenvolvedor Full Stack (Projetos Práticos)",
+      "company": "Autônomo",
+      "role": "Desenvolvedor Web",
+      "category": "Backend, Frontend",
+      "description": "Experiência sólida adquirida através da construção ponta a ponta de aplicações reais. Atuo no desenvolvimento de soluções e-commerce com integração via WhatsApp, automação de rotinas back-end (web scraping, processamento de arquivos estáticos, disparo de e-mails), e consumo de Inteligência Artificial para pipelines de dados dinâmicos.",
+      "highlights": [
+        "Desenvolvimento de interfaces UI/UX otimizadas com tecnologias Vanilla e ferramentas modernas.",
+        "Integração de serviços externos (APIs RESTful, Gemini AI).",
+        "Implementação de CI/CD para automação de versionamento e deploy."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "last_run": "2026-07-01T17:25:20Z",
+  "files": {
+    "knowledge/formacao_e_skills.txt": {
+      "hash": "177031e015a799e5aefc60b7c368999b6f5ab5219bc2e391d04f61b65f714aeb",
+      "last_processed_at": "2026-06-02T17:51:34Z",
+      "status": "processed"
+    },
+    "knowledge/projeto-cotacao-moedas.md": {
+      "hash": "29dc5a7c203a7ef6123ab559d31f779a2eb4bf49f5a94807be80e3ea04c3aca0",
+      "last_processed_at": "2026-07-01T17:23:40Z",
+      "status": "processed"
+    },
+    "knowledge/projeto-curriculo-site.md": {
+      "hash": "aa5a774d2a1039c7aff8c22c819fd9f922ab20c3377a3021f220721936deee0a",
+      "last_processed_at": "2026-07-01T17:24:17Z",
+      "status": "processed"
+    },
+    "knowledge/projeto-nunes-store.md": {
+      "hash": "458f657d7dba31db7d4f28983cb8cb40be6ffd5c23068780b1918d3ca753ee36",
+      "last_processed_at": "2026-07-01T17:24:43Z",
+      "status": "processed"
+    },
+    "knowledge/skills-python.md": {
+      "hash": "b29d4071a7be33b5349364340967e93f2a504fcf2d01daf194329fa585e4491c",
+      "last_processed_at": "2026-07-01T17:25:03Z",
+      "status": "processed"
+    },
+    "knowledge/tecnologias-frontend.md": {
+      "hash": "ccd7b4556be545acc5498c7ee5860ae5e4e247c9e21261ca4bb054c607a45bac",
+      "last_processed_at": "2026-07-01T17:25:20Z",
+      "status": "processed"
+    }
+  }
+}
